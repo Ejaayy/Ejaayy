@@ -16,9 +16,6 @@
 📫 Reach me at: **painganedrienejames@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/edrienejamespaingan)
 
-😄 Pronouns: He/Him  
-⚡ Fun fact: I used to build robots and stream live events, and I’m working on a “time-travel” productivity app concept for Google Workspace!
-
 <!---
 Ejaayy/Ejaayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
