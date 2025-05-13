@@ -26,7 +26,7 @@
 </p>
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div>
 
 ---
-
+--->
 ## 🤝 Let’s Collaborate On
 
 - 🧠 AI-powered tools or beginner-friendly educational apps  
