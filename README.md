@@ -8,9 +8,11 @@
 🌱 On a journey to become an AI engineer, and I’m exploring finance and tech-business integration on the side.  
 🎯 My goal is to build useful, open-source projects that improve productivity, financial literacy, and tech access.
 
+---
+
 ## 🧠 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -23,6 +25,8 @@
   <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -30,14 +34,20 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages"/>
 </div>
 
+---
 
-💬 Let’s collaborate on:
-- AI-powered tools or beginner-friendly educational apps  
-- Projects involving full-stack development or RESTful APIs  
-- Startup ideas involving tech for productivity, education, or finance  
+## 🤝 Let’s Collaborate On
 
-📫 Reach me at: **painganedrienejames@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/edrienejamespaingan)
+- 🧠 AI-powered tools or beginner-friendly educational apps  
+- 🛠️ Projects involving full-stack development or RESTful APIs  
+- 🚀 Startup ideas involving tech for productivity, education, or finance  
+
+---
+
+## 📬 Reach Me
+
+📫 **Email:** painganedrienejames@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/edrienejamespaingan](https://www.linkedin.com/in/edrienejamespaingan)
 
 <!---
 Ejaayy/Ejaayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
