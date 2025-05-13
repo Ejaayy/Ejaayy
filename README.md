@@ -23,6 +23,14 @@
   <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight" alt="Ejaayy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 💬 Let’s collaborate on:
 - AI-powered tools or beginner-friendly educational apps  
 - Projects involving full-stack development or RESTful APIs  
