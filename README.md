@@ -26,16 +26,15 @@
 </p>
 
 ---
-<!---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_title=true" alt="GitHub Stats"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages"/>
 </div>
-
 ---
---->
+
 ## 🤝 Let’s Collaborate On
 
 - 🧠 AI-powered tools or beginner-friendly educational apps  
