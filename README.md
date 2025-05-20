@@ -28,9 +28,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Ejaayy's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ejaayy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
