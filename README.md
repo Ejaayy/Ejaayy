@@ -28,9 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
 
 ---
 
