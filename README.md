@@ -28,10 +28,13 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_title=true" alt="GitHub Stats"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
