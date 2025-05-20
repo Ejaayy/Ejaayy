@@ -29,15 +29,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight&hide=stars,prs&count_private=true" alt="Ejaayy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Ejaayy's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ejaayy&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ejaayy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ejaayy&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
