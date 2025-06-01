@@ -29,8 +29,6 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ejaayy&theme=tokyonight&hide_border=true)
