@@ -35,9 +35,6 @@
   <!-- GitHub Streak -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ejaayy&theme=tokyonight&hide_border=true)
 
-  <!-- GitHub Stats (Total Commits) -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ejaayy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
 </div>
 
 ---
