@@ -30,10 +30,10 @@
 <div align="center">
 
   <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
   <!-- GitHub Streak -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ejaayy&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ejaayy&theme=tokyonight&hide_border=true" />
 
 </div>
 
